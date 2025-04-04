@@ -7,4 +7,4 @@ All assets are licensed under **[CC BY-SA 4.0](https://creativecommons.org/licen
 - ✅ **You can use, modify, and redistribute these assets (even in commercial projects).**  
 - ✅ **You must give credit** (e.g., link to this repo or my name).  
 - 🔄 **If you redistribute, you must use the same license (ShareAlike).**  
-- ❌ **Don’t sell these assets directly** (redistribute for free).  
+- ❌ **Don’t sell these assets directly** (must redistribute for free).  
