@@ -4,6 +4,7 @@ Repo containing basic resources for games such as basic materials/textures, scri
 The contents of this repo are made up of pieces I made for personal and school projects, so some pieces may be very general or very specialized. I am by no means an artist, so any materials/texture or models are unlikely to be high quality.
 
 All assets are under CC BY-SA 4.0.
+
 ✅ You can use these in free/commercial games.
 ✅ You must credit me (or this repo).
 ❌ Don’t sell these assets directly (redistribute for free).
