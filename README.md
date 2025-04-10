@@ -5,6 +5,6 @@ The contents of this repo are made up of pieces I made for personal and school p
 
 All assets are licensed under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**.  
 - ✅ **You can use, modify, and redistribute these assets (even in commercial projects).**  
-- ✅ **You must give credit** (e.g., link to this repo or myself).  
-- 🔄 **If you redistribute, you must use the same license (ShareAlike).**  
+- ✅ **You must give credit if you redistribute or use these assets** (e.g., link to this repo or myself).  
+- 🔄 **If you redistribute these assets directly, you must use the same license (ShareAlike).**  
 - ❌ **You may not sell these assets directly** (must redistribute for free).  
